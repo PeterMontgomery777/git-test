@@ -2,4 +2,3 @@ This is file2.txt
 Another line added to the file.
 Which was then changed again. 
 And again
-Now I made a change on VS Code
